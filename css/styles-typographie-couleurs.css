@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'WalkwaySemiBoldRegular';
+    src: url('fonts/Walkway_SemiBold-webfont.woff') format('woff'),
+         url('fonts/Walkway_SemiBold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CorbelRegular';
+    src: url('fonts/corbel-webfont.woff') format('woff'),
+         url('fonts/corbel-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
